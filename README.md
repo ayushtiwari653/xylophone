@@ -1,6 +1,6 @@
 # Xylophone 🎹
 
-![Finished App](https://github.com/ayushtiwari653/xylophone/blob/master/xylophone.mp4)
+https://github.com/ayushtiwari653/xylophone/blob/master/xylophone.mp4
 
 ## Our Goal
 
